@@ -1,0 +1,123 @@
+body{
+    margin:0px;
+    padding:0px;
+    min-height: 100%;
+}
+table, th, td {
+  border: 1px solid white;
+}
+.table, .th, .td {
+  border: 1px solid white;
+}
+.logo{
+    margin-left: 30%;
+}
+.tbl1{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 20px;
+    font-weight: 600;
+    font-family:sans-serif
+}
+.navlink{
+    text-decoration: none;
+    color: black;
+}
+.tbl2{
+    margin-top: 5%;
+    margin-bottom: 5%
+}
+.td1{
+    padding-left: 10%;
+    padding-right: 0px
+}
+.footer{
+    background-color: gainsboro;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+a{
+    font-family: sans-serif;
+}
+.boxed{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.center-form{
+    font-family: sans-serif;
+    background-color: gainsboro;
+   text-align: center;
+    align-content: center;
+    border: 35px solid gainsboro;
+}
+input{
+      border-radius: 8px;
+        border: 1px solid white;
+        padding: 2%; 
+        width: 100%;
+        height: 5%;
+        margin-bottom: 15px
+}
+button{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 10px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+    border-radius: 8px;
+}
+* {box-sizing: border-box}
+body {font-family: "Lato", sans-serif;}
+
+.tab {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 30%;
+  height: 300px;
+}
+
+
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+.tab button:hover {
+  background-color: #ddd;
+}
+
+.tab button.active {
+  background-color: #ccc;
+}
+
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+  height: 300px;
+background-color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}

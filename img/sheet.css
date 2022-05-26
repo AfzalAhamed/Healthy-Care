@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(221,220,225);
+    margin: auto;
+}
+.notification{
+    border-radius: 18px;
+    padding: 10px;
+    background-color: white;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgb(201,199,216);
+    padding: 15px 20px;
+}
+.notification2{
+    border-radius: 18px;
+    padding: 10px;
+    background-color: white;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgb(201,199,216);
+    padding: 15px 20px;
+    margin: auto
+}
+
+.notification3{
+    border-radius: 18px;
+    padding: 20px;
+    background-color: white;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgb(201,199,216);
+    float: right;
+    margin: auto
+}
+
+.notification4{
+    border-radius: 18px;
+    padding: 20px;
+    background-color: white;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgb(201,199,216);
+    float: left;
+    margin: auto
+}
+

@@ -1,0 +1,30 @@
+.bar{
+	background-color: black;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    float: right;
+}
+	a{
+    	text-decoration: none;
+        color: WHITE;
+    }
+	.block{
+            text-decoration: none;
+            padding: 17px 20px 17px 20px;
+            
+  	}
+    .bar:hover{
+            background-color: white;
+            color: blAck;
+  	}
+.bar2{
+	background-color: black;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    float: left;
+}
+
+    .bar2:hover{
+            background-color: white;
+            color: blAck;
+  	}
